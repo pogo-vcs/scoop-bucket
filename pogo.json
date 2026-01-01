@@ -1,12 +1,12 @@
 {
     "version": "1.3.2",
     "architecture": {
-        "64bit": {
-            "url": "https://github.com/pogo-vcs/pogo/releases/download/v1.3.2/pogo_Windows_x86_64.zip",
+        "arm64": {
+            "url": "https://github.com/pogo-vcs/pogo/releases/download/v1.3.2/pogo_Windows_arm64.zip",
             "bin": [
                 "pogo.exe"
             ],
-            "hash": "4441bfc4e34591fc5329c6b69889d84fda2d371357aa89c3efcd5f601c09987d"
+            "hash": "239dd71db0e910c26552192f3243f7590e87bdc69038875969c045a875feb089"
         }
     },
     "homepage": "https://github.com/pogo-vcs/pogo",
